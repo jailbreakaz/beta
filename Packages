@@ -1,13 +1,14 @@
+
 Package: com.jailbreakaz.watusi
 Name: Watusi Az
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Klavyenize ekstra emojiler ekler.
-Depiction: | AzJailbreak Repo |
+Description: Azerbaydan dilində .
+Depiction: | jailbreakAz |
 Author: cole cabral
-Section: Tweak
-Depends: mobilesubstrate,
-Maintainer: saleh <test@email.com> 
+Section: DS - Tweak
+Depends: mobilesubstrate
+Maintainer: Xarold <repo@trappledestek.com>
 Filename: ./Debs/com.jailbreakaz.watusi_1.0.1_iphoneos-arm.deb
-size: 14168
+size: 40102
 MD5sum: 7e9aa79acda9e5d2b1f57c07baaa6184
